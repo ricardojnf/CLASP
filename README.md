@@ -1,6 +1,6 @@
 This repository contains the code for the numerical experiments presented in the paper:
 
-[1] Ricardo N. Ferreira, João Xavier, and Cláudia Soares. “CLASP: Online learning algorithms for Convex Losses And Squared Penalties” (2026).
+[1] Ricardo N. Ferreira, João Xavier, and Cláudia Soares. “CLASP: Online learning algorithms for Convex Losses And Squared Penalties”, Proceedings of the International Conference on Machine Learning, 2026.
 
 We compare our approach with the algorithms:
 
